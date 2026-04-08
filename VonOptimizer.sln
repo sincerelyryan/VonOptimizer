@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VonOptimizer", "VonOptimizer\VonOptimizer.csproj", "{78C55A4C-367F-41C5-A64E-AC450CB2177D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78C55A4C-367F-41C5-A64E-AC450CB2177D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C55A4C-367F-41C5-A64E-AC450CB2177D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C55A4C-367F-41C5-A64E-AC450CB2177D}.Debug|x64.ActiveCfg = Debug|x64
+		{78C55A4C-367F-41C5-A64E-AC450CB2177D}.Debug|x64.Build.0 = Debug|x64
+		{78C55A4C-367F-41C5-A64E-AC450CB2177D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C55A4C-367F-41C5-A64E-AC450CB2177D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78C55A4C-367F-41C5-A64E-AC450CB2177D}.Release|x64.ActiveCfg = Release|x64
+		{78C55A4C-367F-41C5-A64E-AC450CB2177D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A005B86B-8EA3-4F9F-B9F2-81E2609C6419}
+	EndGlobalSection
+EndGlobal
